@@ -1,0 +1,29 @@
+{
+  "scripts": {
+    "start": "vite"
+  },
+  "devDependencies": {
+    "autoprefixer": "^10.4.14",
+    "postcss": "^8.4.24",
+    "tailwindcss": "^3.3.2",
+    "vite": "^4.3.9"
+  },
+  "dependencies": {
+    "feather": "^0.0.5"
+  },
+  "name": "razerpay",
+  "version": "1.0.0",
+  "main": "postcss.config.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Mohit-pl/discord-Clone1.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Mohit-pl/discord-Clone1/issues"
+  },
+  "homepage": "https://github.com/Mohit-pl/discord-Clone1#readme",
+  "description": ""
+}
